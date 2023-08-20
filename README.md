@@ -1,0 +1,4 @@
+# Python-Toplu-Mail-Gonderme-Islemi
+Göndermek gayet basit burada gmailin 2022de çıkarttığı yeni kural ile sadece mail şifresi ile işlem yapamıyoruz. Bunun için uygulama şifresi oluşturuyoruz ve uygulama şifresini kodda gösterdiğim yere yapıştırıyoruz.Bu kadar basit. Uygulama şifresi için 2 adımlı doğrulama açmanızı ister. Sonra https://myaccount.google.com/u/2/apppasswords?rapt=AEjHL4M3p00tC2HD56cWoeSHGfzVxXUZvmDnhcLB50C1oYC5LT8bahLHa3P3z6VLkWIk33_j_miJVLpC9VM8N8OPBKfaBWxnlw bu linke giderek uygulama şifresi oluşturabilirsiniz. Eğer linke güvenmezseniz veya çalışmazsa Ayarlara uygulama şifreleri yazarak ulaşabilirsiniz
+
+# Herhangi bir kurulum yapmanıza gerek yok. 'app.py' dosyasını çalıştırın. İsterseniz terminal veya cmd den dosya konumuna giderek python app.py kodunu yazarak çalışmazsa python3 app.py çalıştırarak veya herhangi bir python terminalinden mesajı ayarlarken direk oradan çalıştırabilirsiniz  <b>Tadını Çıkarın!</b>
